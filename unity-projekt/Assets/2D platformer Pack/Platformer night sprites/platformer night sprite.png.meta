@@ -660,243 +660,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Long grass 1 (night)
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 489
-        width: 16
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Little grass 1 (night)
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 489
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orange mushroom (night)
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 482
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Little mushroom (night)
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 482
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red mushroom (night)
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 482
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Underground 2 (night)
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 481
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Underground 1 (night)
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 464
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green liana 3 (night)
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 478
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Green liana 4 (night)
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 479
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80405410000000000800000000000000
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brown liana 3 (night)
-      rect:
-        serializedVersion: 2
-        x: 235
-        y: 478
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0405410000000000800000000000000
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brown liana 4 (night)
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 479
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0405410000000000800000000000000
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: platformer night sprite_11
       rect:
         serializedVersion: 2
         x: 11
         y: 480
-        width: 16
+        width: 7
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -912,12 +681,243 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little grass 2
+      name: platformer night sprite_0
       rect:
         serializedVersion: 2
-        x: 29
+        x: 10
+        y: 489
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1121ef132e2349b507a013c0ad480
+      internalID: -453143710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 489
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83399c4cd5c306a4aa4e22872f29bcf9
+      internalID: 934583709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 482
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14507d44e6b7b418f84e4570ccfb31
+      internalID: -1031720648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b43f143383624ebbc617a8b8c11df
+      internalID: -140600739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 482
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb32b8e59625da488670877a5404dbc
+      internalID: 150037420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e4e6d46c7fd840a858c6e58f33485
+      internalID: -1462982298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec20f49345b0cd4fab06a44b8f91be5
+      internalID: 158346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 478
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3444f48889de640b3a66b08accc411
+      internalID: -1320937341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 479
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a43999ceb1848e4d8528050a7897b73
+      internalID: 206166915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 478
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7b84438316a64c9fa5389e04a6302
+      internalID: -1684540532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 479
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8cef973de43947ad593ac05c30aa4
+      internalID: -1313386618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_12
+      rect:
+        serializedVersion: 2
+        x: 19
         y: 480
-        width: 7
+        width: 17
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -926,14 +926,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
+      spriteID: bed9a725dc09fc747a11a843396ebfe1
+      internalID: -214684950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Underground 4 (night)
+      name: platformer night sprite_13
       rect:
         serializedVersion: 2
         x: 102
@@ -947,14 +947,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0405410000000000800000000000000
-      internalID: 21300238
+      spriteID: ee9320a55c23ddf42a218cbf95622a0a
+      internalID: 667597384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass block 2 (night)
+      name: platformer night sprite_14
       rect:
         serializedVersion: 2
         x: 19
@@ -968,14 +968,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01405410000000000800000000000000
-      internalID: 21300240
+      spriteID: 8e4af948b32f5854ea8fea769dceed64
+      internalID: 163930236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass block 3 (night)
+      name: platformer night sprite_15
       rect:
         serializedVersion: 2
         x: 30
@@ -989,14 +989,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21405410000000000800000000000000
-      internalID: 21300242
+      spriteID: 2f7bf7587a5410546988b6d2e02d70dc
+      internalID: -1002383331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass block 4 (night)
+      name: platformer night sprite_16
       rect:
         serializedVersion: 2
         x: 48
@@ -1010,14 +1010,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
+      spriteID: 9f2d35c0a97b02a4c99a27559b42bc68
+      internalID: 1317159386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass block 5 (night)
+      name: platformer night sprite_17
       rect:
         serializedVersion: 2
         x: 58
@@ -1031,14 +1031,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41405410000000000800000000000000
-      internalID: 21300244
+      spriteID: 7ccdefcee4d30d14aa9d0318a88b9665
+      internalID: 684699573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Underground 5 (night)
+      name: platformer night sprite_18
       rect:
         serializedVersion: 2
         x: 102
@@ -1052,14 +1052,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61405410000000000800000000000000
-      internalID: 21300246
+      spriteID: 381e52f9970ac3f4685d4ffbab3651b6
+      internalID: -881873670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Underground 3 (night)
+      name: platformer night sprite_19
       rect:
         serializedVersion: 2
         x: 112
@@ -1073,14 +1073,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81405410000000000800000000000000
-      internalID: 21300248
+      spriteID: 11a3c179c109cfa489278d6f8c7370a1
+      internalID: -683275751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ladder 2 (night)
+      name: platformer night sprite_20
       rect:
         serializedVersion: 2
         x: 195
@@ -1094,20 +1094,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1405410000000000800000000000000
-      internalID: 21300250
+      spriteID: 8cf2d5b5e72c78a40abfd5d9a4514935
+      internalID: -1355265620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barrel (night)
+      name: platformer night sprite_21
       rect:
         serializedVersion: 2
         x: 212
-        y: 459
+        y: 412
         width: 15
-        height: 14
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,14 +1115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1405410000000000800000000000000
-      internalID: 21300252
+      spriteID: ecb640456ea4c144d8123c48d0ecb05d
+      internalID: 1966329524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sign 1 (night)
+      name: platformer night sprite_22
       rect:
         serializedVersion: 2
         x: 236
@@ -1136,14 +1136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1405410000000000800000000000000
-      internalID: 21300254
+      spriteID: ff40ca501965ced47970df0c6bfbe791
+      internalID: 326511679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sign 2 (night)
+      name: platformer night sprite_23
       rect:
         serializedVersion: 2
         x: 257
@@ -1157,14 +1157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02405410000000000800000000000000
-      internalID: 21300256
+      spriteID: 8e2d607bd58db4a4f9b67c207d1214e2
+      internalID: 405128929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass block 1 (night)
+      name: platformer night sprite_24
       rect:
         serializedVersion: 2
         x: 9
@@ -1178,14 +1178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22405410000000000800000000000000
-      internalID: 21300258
+      spriteID: 71a2d4c25614b104a9e4464b4f2ce36f
+      internalID: 1660863496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 1 (night)
+      name: platformer night sprite_25
       rect:
         serializedVersion: 2
         x: 19
@@ -1199,14 +1199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42405410000000000800000000000000
-      internalID: 21300260
+      spriteID: f8cf77a040021654c9dd3c98143ae0ae
+      internalID: 2052607386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 2 (night)
+      name: platformer night sprite_26
       rect:
         serializedVersion: 2
         x: 30
@@ -1220,14 +1220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
+      spriteID: 99cd344f2e8668d4a8598017c61f25b5
+      internalID: 1615962193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 3 (night)
+      name: platformer night sprite_27
       rect:
         serializedVersion: 2
         x: 48
@@ -1241,14 +1241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
+      spriteID: e36bdb0a4d9200a469144be15088a1f5
+      internalID: 1335850025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bridge left part (night)
+      name: platformer night sprite_28
       rect:
         serializedVersion: 2
         x: 72
@@ -1262,14 +1262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
+      spriteID: c73152fd1383be24dbc0c4f04894a1ba
+      internalID: -1383642480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bridge center part (night)
+      name: platformer night sprite_29
       rect:
         serializedVersion: 2
         x: 91
@@ -1283,14 +1283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62405410000000000800000000000000
-      internalID: 21300262
+      spriteID: b7e28704cd190ca4bb593d696229fc2c
+      internalID: 131887658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bridge right part (night)
+      name: platformer night sprite_30
       rect:
         serializedVersion: 2
         x: 103
@@ -1304,14 +1304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82405410000000000800000000000000
-      internalID: 21300264
+      spriteID: 25cbb10c450e1724c8045b36a7fe3c82
+      internalID: 915397528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spades
+      name: platformer night sprite_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1325,14 +1325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
+      spriteID: cf78e9d19fb928f4c8693d81c87a8555
+      internalID: 1246865557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blood spades
+      name: platformer night sprite_32
       rect:
         serializedVersion: 2
         x: 139
@@ -1346,14 +1346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
+      spriteID: 5cb761a3e1e19dd4e9f7e8de341c974e
+      internalID: -809260438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Torch 1 (night)
+      name: platformer night sprite_33
       rect:
         serializedVersion: 2
         x: 157
@@ -1367,19 +1367,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2405410000000000800000000000000
-      internalID: 21300266
+      spriteID: cad002a138cc232498c0bf93c4e00929
+      internalID: -1898422338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Torch 2 (night)
+      name: platformer night sprite_34
       rect:
         serializedVersion: 2
         x: 165
         y: 443
-        width: 3
+        width: 10
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1388,14 +1388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2405410000000000800000000000000
-      internalID: 21300268
+      spriteID: 69306c6cacaa9524abea09f3fa2cab99
+      internalID: 232599625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Torch 4 (night)
+      name: platformer night sprite_35
       rect:
         serializedVersion: 2
         x: 178
@@ -1409,14 +1409,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2405410000000000800000000000000
-      internalID: 21300270
+      spriteID: 9adcd860637ce2f48b70068eb5de5d2d
+      internalID: 1602559272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little brown & green rock (night)
+      name: platformer night sprite_36
       rect:
         serializedVersion: 2
         x: 9
@@ -1430,14 +1430,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03405410000000000800000000000000
-      internalID: 21300272
+      spriteID: 517b720c228c17a4f85dedd546a8cb31
+      internalID: -1809051556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little grey rock (night)
+      name: platformer night sprite_37
       rect:
         serializedVersion: 2
         x: 22
@@ -1451,14 +1451,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23405410000000000800000000000000
-      internalID: 21300274
+      spriteID: 14b25dcd78655e1449e1a578244c6b4a
+      internalID: -196785636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plant (night)
+      name: platformer night sprite_38
       rect:
         serializedVersion: 2
         x: 41
@@ -1472,14 +1472,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43405410000000000800000000000000
-      internalID: 21300276
+      spriteID: b8ea876e004e3c6428fc19d70860ed47
+      internalID: -139519155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sign 3 (night)
+      name: platformer night sprite_39
       rect:
         serializedVersion: 2
         x: 238
@@ -1493,14 +1493,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63405410000000000800000000000000
-      internalID: 21300278
+      spriteID: 05b7970386e1c7d4aa1e624e3a1e5e50
+      internalID: -2077415511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sign 4 (night)
+      name: platformer night sprite_40
       rect:
         serializedVersion: 2
         x: 257
@@ -1514,14 +1514,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83405410000000000800000000000000
-      internalID: 21300280
+      spriteID: 6f05763852add92419f237cf6d2fdca2
+      internalID: 1772828128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little brown rock (night)
+      name: platformer night sprite_41
       rect:
         serializedVersion: 2
         x: 9
@@ -1535,14 +1535,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3405410000000000800000000000000
-      internalID: 21300282
+      spriteID: 39332f2b346099a4ca5f64b744ee265c
+      internalID: -1626530132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little grey & green rock (night)
+      name: platformer night sprite_42
       rect:
         serializedVersion: 2
         x: 22
@@ -1556,14 +1556,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3405410000000000800000000000000
-      internalID: 21300284
+      spriteID: e3bf10365e2115a4594914d3b1262232
+      internalID: 2142387281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palm 1 (night)
+      name: platformer night sprite_43
       rect:
         serializedVersion: 2
         x: 73
@@ -1577,14 +1577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3405410000000000800000000000000
-      internalID: 21300286
+      spriteID: 8f58b7b4eb6c70e46ba4250278615992
+      internalID: -1012347393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palm 2 (night)
+      name: platformer night sprite_44
       rect:
         serializedVersion: 2
         x: 104
@@ -1598,14 +1598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04405410000000000800000000000000
-      internalID: 21300288
+      spriteID: 3bb73ef9316a8744f849a8c6013b0e99
+      internalID: -983775633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palm 3 (night)
+      name: platformer night sprite_45
       rect:
         serializedVersion: 2
         x: 137
@@ -1619,14 +1619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24405410000000000800000000000000
-      internalID: 21300290
+      spriteID: 649912370b16f534d90f49d68787387d
+      internalID: -1511040633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palm 4 (night)
+      name: platformer night sprite_46
       rect:
         serializedVersion: 2
         x: 164
@@ -1640,14 +1640,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44405410000000000800000000000000
-      internalID: 21300292
+      spriteID: 798eb54e76c455b4eb25e1f19b2cf0c3
+      internalID: -734048701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ladder 1 (night)
+      name: platformer night sprite_47
       rect:
         serializedVersion: 2
         x: 194
@@ -1661,14 +1661,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64405410000000000800000000000000
-      internalID: 21300294
+      spriteID: 449e81e2a306fc7468fa44f27f6f929e
+      internalID: 563412039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wood box 1 (night)
+      name: platformer night sprite_48
       rect:
         serializedVersion: 2
         x: 236
@@ -1682,14 +1682,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84405410000000000800000000000000
-      internalID: 21300296
+      spriteID: 1bf1fe986c82ff34480decc5e90b3c1c
+      internalID: -1817042911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wood box 2 (night)
+      name: platformer night sprite_49
       rect:
         serializedVersion: 2
         x: 258
@@ -1703,14 +1703,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4405410000000000800000000000000
-      internalID: 21300298
+      spriteID: b82f5ef53b15ffe49af44ca80f3e26dc
+      internalID: -1744979439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 4 (night)
+      name: platformer night sprite_50
       rect:
         serializedVersion: 2
         x: 25
@@ -1724,14 +1724,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
+      spriteID: 8b1d626d002736e43b3e74cbcd322aef
+      internalID: 2134987283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 5 (night)
+      name: platformer night sprite_51
       rect:
         serializedVersion: 2
         x: 35
@@ -1745,14 +1745,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
+      spriteID: 8035ceeecef5d134d8254e681e7004b5
+      internalID: 472530308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 6 (night)
+      name: platformer night sprite_52
       rect:
         serializedVersion: 2
         x: 46
@@ -1766,14 +1766,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
+      spriteID: 5bba72c5f2325c54291444c0bb4da0de
+      internalID: -1910351553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 7 (night)
+      name: platformer night sprite_53
       rect:
         serializedVersion: 2
         x: 56
@@ -1787,14 +1787,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
+      spriteID: 3b926db9e784a364ea853e20d877daf1
+      internalID: 471790514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 8 (night)
+      name: platformer night sprite_54
       rect:
         serializedVersion: 2
         x: 14
@@ -1808,14 +1808,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
+      spriteID: a875ea6f3ffdfec4994399bb0c7ae135
+      internalID: 1333763348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 9 (night)
+      name: platformer night sprite_55
       rect:
         serializedVersion: 2
         x: 25
@@ -1829,14 +1829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
+      spriteID: 05bc79ebc8f7abf49801af4b75f8c4be
+      internalID: 1583698678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 10 (night)
+      name: platformer night sprite_56
       rect:
         serializedVersion: 2
         x: 43
@@ -1850,14 +1850,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
+      spriteID: 9dc209d4e5eb89944a48ee492912c0ee
+      internalID: -255639059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 11 (night)
+      name: platformer night sprite_57
       rect:
         serializedVersion: 2
         x: 53
@@ -1871,14 +1871,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
+      spriteID: bbf8f78dc7a2821419dfa66f069f9560
+      internalID: -79798434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little circular saw 1 (night)
+      name: platformer night sprite_58
       rect:
         serializedVersion: 2
         x: 194
@@ -1892,14 +1892,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4405410000000000800000000000000
-      internalID: 21300300
+      spriteID: e7ff66f0315e3a3459dcecb9319910ed
+      internalID: -49342585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little circular saw 2 (night)
+      name: platformer night sprite_59
       rect:
         serializedVersion: 2
         x: 205
@@ -1913,14 +1913,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4405410000000000800000000000000
-      internalID: 21300302
+      spriteID: 4edd0b1e30bcdc341a931887c57ebb58
+      internalID: -679470242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big circular saw 1 (night)
+      name: platformer night sprite_60
       rect:
         serializedVersion: 2
         x: 223
@@ -1934,14 +1934,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
+      spriteID: d6e623340003ba44cafa08052e2c50e0
+      internalID: -520011801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big circular saw 2 (night)
+      name: platformer night sprite_61
       rect:
         serializedVersion: 2
         x: 243
@@ -1955,14 +1955,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05405410000000000800000000000000
-      internalID: 21300304
+      spriteID: c01c30454d9d8774b9df9818e54974d4
+      internalID: 1949211465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 12 (night)
+      name: platformer night sprite_62
       rect:
         serializedVersion: 2
         x: 14
@@ -1976,14 +1976,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
+      spriteID: 6a642fe51d51ac947a0c0fe6fb850665
+      internalID: 693276475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 13 (night)
+      name: platformer night sprite_63
       rect:
         serializedVersion: 2
         x: 25
@@ -1997,14 +1997,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
+      spriteID: 345bd6c4cf760894ab0d17f4a55e37d3
+      internalID: 1728126459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 14 (night)
+      name: platformer night sprite_64
       rect:
         serializedVersion: 2
         x: 43
@@ -2018,14 +2018,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
+      spriteID: 101165c4637717c498f09d09b0dabfd8
+      internalID: 132134645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 15 (night)
+      name: platformer night sprite_65
       rect:
         serializedVersion: 2
         x: 53
@@ -2039,14 +2039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
+      spriteID: 42115c3fcd3047349a0e63914059e99a
+      internalID: 1808991049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 16 (night)
+      name: platformer night sprite_66
       rect:
         serializedVersion: 2
         x: 5
@@ -2060,14 +2060,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
+      spriteID: 2812efeb21a5880469831716b6086e16
+      internalID: 2139521293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 17 (night)
+      name: platformer night sprite_67
       rect:
         serializedVersion: 2
         x: 14
@@ -2081,14 +2081,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
+      spriteID: 1c468086299961b4c87f7045c7b1c120
+      internalID: -391768017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 18 (night)
+      name: platformer night sprite_68
       rect:
         serializedVersion: 2
         x: 25
@@ -2102,14 +2102,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
+      spriteID: 8ca4511a6b09b6c4b8a7b11a31d7d071
+      internalID: -2068215622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 19 (night)
+      name: platformer night sprite_69
       rect:
         serializedVersion: 2
         x: 43
@@ -2123,14 +2123,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
+      spriteID: b46a813ead7b1d4409173f24e4b1dca8
+      internalID: -1767479741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 20 (night)
+      name: platformer night sprite_70
       rect:
         serializedVersion: 2
         x: 53
@@ -2144,14 +2144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
+      spriteID: 604dc54e467e7e949a0fd41df5191c3e
+      internalID: -1324064816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 21 (night)
+      name: platformer night sprite_71
       rect:
         serializedVersion: 2
         x: 63
@@ -2165,14 +2165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
+      spriteID: c2b389f7e19353641bd6bd172f5e1cd1
+      internalID: 632833533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big brown & green rock (night)
+      name: platformer night sprite_72
       rect:
         serializedVersion: 2
         x: 73
@@ -2186,14 +2186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25405410000000000800000000000000
-      internalID: 21300306
+      spriteID: 2e7fc7493f69b4c4c9ee64dd77107ffb
+      internalID: -213680350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big brown rock (night)
+      name: platformer night sprite_73
       rect:
         serializedVersion: 2
         x: 94
@@ -2207,14 +2207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45405410000000000800000000000000
-      internalID: 21300308
+      spriteID: d6d06a2be308fa84a92371ed26cf6454
+      internalID: 797790591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little circular blood saw 1 (night)
+      name: platformer night sprite_74
       rect:
         serializedVersion: 2
         x: 194
@@ -2228,14 +2228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65405410000000000800000000000000
-      internalID: 21300310
+      spriteID: ae5e6041d81410447b2468fe3c9870cc
+      internalID: 493758535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little circular blood saw 2 (night)
+      name: platformer night sprite_75
       rect:
         serializedVersion: 2
         x: 205
@@ -2249,14 +2249,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85405410000000000800000000000000
-      internalID: 21300312
+      spriteID: 2a64efe0f0d168f459d49469a4437e45
+      internalID: -1459394274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big circular blood saw 1 (night)
+      name: platformer night sprite_76
       rect:
         serializedVersion: 2
         x: 223
@@ -2270,14 +2270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5405410000000000800000000000000
-      internalID: 21300314
+      spriteID: d7586815cdc2cf842a94e30fb807ebc2
+      internalID: -1650463476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big circular blood saw 2 (night)
+      name: platformer night sprite_77
       rect:
         serializedVersion: 2
         x: 243
@@ -2291,14 +2291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5405410000000000800000000000000
-      internalID: 21300316
+      spriteID: e7502b19f11947b469785f7bd5fc6628
+      internalID: -1630809782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 22 (night)
+      name: platformer night sprite_78
       rect:
         serializedVersion: 2
         x: 16
@@ -2312,14 +2312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
+      spriteID: 4ae5a4808433db84495c768f95bc20b0
+      internalID: 1460903105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 23 (night)
+      name: platformer night sprite_79
       rect:
         serializedVersion: 2
         x: 35
@@ -2333,14 +2333,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
+      spriteID: 0996c0d60bd08e8469a4243fbd0aaa04
+      internalID: -462463067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 24 (night)
+      name: platformer night sprite_80
       rect:
         serializedVersion: 2
         x: 53
@@ -2354,14 +2354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
+      spriteID: 9f552ceee19d5ad48960c16b9f2fcd3e
+      internalID: -506562622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ground block 25 (night)
+      name: platformer night sprite_81
       rect:
         serializedVersion: 2
         x: 63
@@ -2375,14 +2375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
+      spriteID: b7620e7a3dd26ec48b044014ce778b09
+      internalID: 1122296856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big grey & green rock (night)
+      name: platformer night sprite_82
       rect:
         serializedVersion: 2
         x: 73
@@ -2396,14 +2396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5405410000000000800000000000000
-      internalID: 21300318
+      spriteID: 16e7bfa65e7d28c45b005a379e3a0570
+      internalID: 1957052112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big grey rock (night)
+      name: platformer night sprite_83
       rect:
         serializedVersion: 2
         x: 94
@@ -2417,14 +2417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06405410000000000800000000000000
-      internalID: 21300320
+      spriteID: 8f4033e0b41f5aa4fb837a03f3f2315a
+      internalID: -350638633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Closed chest (night)
+      name: platformer night sprite_84
       rect:
         serializedVersion: 2
         x: 120
@@ -2438,14 +2438,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26405410000000000800000000000000
-      internalID: 21300322
+      spriteID: c7b52e38ffbb54e4e8809d79d3673259
+      internalID: -1691015688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Open chest (night)
+      name: platformer night sprite_85
       rect:
         serializedVersion: 2
         x: 141
@@ -2459,14 +2459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46405410000000000800000000000000
-      internalID: 21300324
+      spriteID: 1d4b1a0c2def6214d8094eb18ad7ec00
+      internalID: -743365986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin (night)
+      name: platformer night sprite_86
       rect:
         serializedVersion: 2
         x: 188
@@ -2480,14 +2480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66405410000000000800000000000000
-      internalID: 21300326
+      spriteID: ac173d39dee85844382cc4acdc4267dd
+      internalID: 1067374765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rubis (night)
+      name: platformer night sprite_87
       rect:
         serializedVersion: 2
         x: 197
@@ -2501,14 +2501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86405410000000000800000000000000
-      internalID: 21300328
+      spriteID: cdf2b16544a20e2489bb656a9a861444
+      internalID: -521676231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Emeraude (night)
+      name: platformer night sprite_88
       rect:
         serializedVersion: 2
         x: 206
@@ -2522,14 +2522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6405410000000000800000000000000
-      internalID: 21300330
+      spriteID: 87f0dda480033634898d413ebd418fe9
+      internalID: -1805262733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gold key (night)
+      name: platformer night sprite_89
       rect:
         serializedVersion: 2
         x: 158
@@ -2543,14 +2543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6405410000000000800000000000000
-      internalID: 21300332
+      spriteID: d56b807b70e1b1b498d998cbb309afcd
+      internalID: -946173864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iron key (night)
+      name: platformer night sprite_90
       rect:
         serializedVersion: 2
         x: 173
@@ -2564,14 +2564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6405410000000000800000000000000
-      internalID: 21300334
+      spriteID: 086a5b7f3d6079146840769f73edf605
+      internalID: 1534648266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Upper platform (night)
+      name: platformer night sprite_91
       rect:
         serializedVersion: 2
         x: 6
@@ -2585,14 +2585,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07405410000000000800000000000000
-      internalID: 21300336
+      spriteID: e4f49a3cbe857184c8853dc26330ef01
+      internalID: 490399559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lower Platform (night)
+      name: platformer night sprite_92
       rect:
         serializedVersion: 2
         x: 64
@@ -2606,19 +2606,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27405410000000000800000000000000
-      internalID: 21300338
+      spriteID: 138b5f65b33495940af7d11788f1c59e
+      internalID: 1566381662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wood platform (night)
+      name: platformer night sprite_93
       rect:
         serializedVersion: 2
         x: 117
         y: 314
-        width: 31
+        width: 43
         height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2627,19 +2627,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47405410000000000800000000000000
-      internalID: 21300340
+      spriteID: 0f27d831f47df794bbc81bb6608c5159
+      internalID: -1598076754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Upper wood (night)
+      name: platformer night sprite_94
       rect:
         serializedVersion: 2
-        x: 196
+        x: 164
         y: 314
-        width: 7
+        width: 39
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2648,14 +2648,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67405410000000000800000000000000
-      internalID: 21300342
+      spriteID: 892d57e3b10556f4ebc4ed095369f908
+      internalID: -856084848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lower wood (night)
+      name: platformer night sprite_95
       rect:
         serializedVersion: 2
         x: 208
@@ -2669,14 +2669,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87405410000000000800000000000000
-      internalID: 21300344
+      spriteID: a6ff96832a2deff49813c592cb6e52b6
+      internalID: 34616969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sky background (night)
+      name: platformer night sprite_96
       rect:
         serializedVersion: 2
         x: 12
@@ -2690,14 +2690,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
+      spriteID: 1a2dff5c818d7244aaa703b3db621103
+      internalID: -370387870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water background (night)
+      name: platformer night sprite_97
       rect:
         serializedVersion: 2
         x: 12
@@ -2711,14 +2711,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
+      spriteID: 6f8bf723b2dda8346967e66253613670
+      internalID: -757599954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water (night)
+      name: platformer night sprite_98
       rect:
         serializedVersion: 2
         x: 13
@@ -2732,14 +2732,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
+      spriteID: 9540fd5a588f37843beaf35148311643
+      internalID: -761982317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water part (night)
+      name: platformer night sprite_99
       rect:
         serializedVersion: 2
         x: 13
@@ -2753,176 +2753,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Left wood (night)
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 347
-        width: 8
-        height: 3
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7405410000000000800000000000000
-      internalID: 21300346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: wood center (night)
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 347
-        width: 14
-        height: 3
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7405410000000000800000000000000
-      internalID: 21300348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: right wood (night)
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 347
-        width: 8
-        height: 3
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7405410000000000800000000000000
-      internalID: 21300350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Long green liana (night)
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 425
-        width: 3
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08405410000000000800000000000000
-      internalID: 21300352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Long brown liana (night)
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 425
-        width: 4
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28405410000000000800000000000000
-      internalID: 21300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Little green liana (night)
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 412
-        width: 4
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48405410000000000800000000000000
-      internalID: 21300356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Little brown liana (night)
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 413
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68405410000000000800000000000000
-      internalID: 21300358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Torch 3 (night)
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 443
-        width: 4
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88405410000000000800000000000000
-      internalID: 21300360
+      spriteID: 807f290b9342bf34882b794151593e97
+      internalID: 1609735044
       vertices: []
       indices: 
       edges: []
@@ -2930,7 +2762,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1b344ed7f81767d4a8f0cb6a65038c8c
     internalID: 0
     vertices: []
     indices: 
@@ -2938,114 +2770,106 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Brown liana 4 (night): 21300236
-      Wood platform (night): 21300340
-      Little grey & green rock (night): 21300284
-      Long grass 1 (night): 21300216
-      Lower Platform (night): 21300338
-      Gold key (night): 21300332
-      Water part (night): 21300198
-      Little green liana (night): 21300356
-      Sign 1 (night): 21300254
-      Water background (night): 21300194
-      Bridge center part (night): 21300262
-      Little grass 2: 21300024
-      Spades: 21300062
-      Sign 4 (night): 21300280
-      Ground block 24 (night): 21300160
-      Ground block 23 (night): 21300158
-      Iron key (night): 21300334
-      Grass block 3 (night): 21300242
-      Rubis (night): 21300328
-      Ground block 3 (night): 21300054
-      Bridge left part (night): 21300056
-      Ground block 8 (night): 21300108
-      Big brown rock (night): 21300308
-      Ladder 1 (night): 21300294
-      Little circular blood saw 2 (night): 21300312
-      Green liana 3 (night): 21300230
-      Ground block 18 (night): 21300136
-      Grass block 4 (night): 21300032
-      Open chest (night): 21300324
-      Little brown rock (night): 21300282
-      Ground block 12 (night): 21300124
-      Torch 1 (night): 21300266
-      Upper platform (night): 21300336
-      Wood box 1 (night): 21300296
-      Palm 2 (night): 21300288
-      Ground block 20 (night): 21300140
-      Little brown liana (night): 21300358
-      Lower wood (night): 21300344
-      Long brown liana (night): 21300354
-      Green liana 4 (night): 21300232
-      Ground block 15 (night): 21300130
-      wood center (night): 21300348
-      Wood box 2 (night): 21300298
-      Big brown & green rock (night): 21300306
-      Little grey rock (night): 21300274
-      Ground block 21 (night): 21300142
-      Sign 2 (night): 21300256
-      Brown liana 3 (night): 21300234
-      Ground block 5 (night): 21300102
-      Ground block 2 (night): 21300052
-      Big circular saw 2 (night): 21300304
-      Torch 2 (night): 21300268
-      Little circular saw 2 (night): 21300302
-      Little grass 1 (night): 21300218
-      Ground block 4 (night): 21300100
-      Torch 3 (night): 21300360
-      Bridge right part (night): 21300264
-      Underground 4 (night): 21300238
-      Grass block 5 (night): 21300244
-      Ground block 6 (night): 21300104
-      Upper wood (night): 21300342
-      Plant (night): 21300276
-      Underground 2 (night): 21300226
-      Ground block 17 (night): 21300134
-      Little circular blood saw 1 (night): 21300310
-      Ground block 19 (night): 21300138
-      Underground 1 (night): 21300228
-      Emeraude (night): 21300330
-      Sign 3 (night): 21300278
-      right wood (night): 21300350
-      Little brown & green rock (night): 21300272
-      Grass block 2 (night): 21300240
-      Torch 4 (night): 21300270
-      Blood spades: 21300064
-      Palm 1 (night): 21300286
-      Ground block 11 (night): 21300114
-      Ground block 1 (night): 21300260
-      Left wood (night): 21300346
-      Water (night): 21300196
-      Underground 5 (night): 21300246
-      Palm 3 (night): 21300290
-      Big grey rock (night): 21300320
-      Barrel (night): 21300252
-      Ground block 14 (night): 21300128
-      Ground block 16 (night): 21300132
-      Coin (night): 21300326
-      Ground block 10 (night): 21300112
-      Grass block 1 (night): 21300258
-      Closed chest (night): 21300322
-      Big circular saw 1 (night): 21300120
-      Long green liana (night): 21300352
-      Big circular blood saw 2 (night): 21300316
-      Palm 4 (night): 21300292
-      Underground 3 (night): 21300248
-      Orange mushroom (night): 21300220
-      Big circular blood saw 1 (night): 21300314
-      Ground block 22 (night): 21300156
-      Ground block 9 (night): 21300110
-      Ladder 2 (night): 21300250
+      platformer night sprite_36: -1809051556
+      platformer night sprite_5: -1462982298
+      platformer night sprite_68: -2068215622
+      platformer night sprite_39: -2077415511
+      platformer night sprite_70: -1324064816
+      platformer night sprite_29: 131887658
+      platformer night sprite_17: 684699573
+      platformer night sprite_37: -196785636
+      platformer night sprite_32: -809260438
+      platformer night sprite_4: 150037420
+      platformer night sprite_63: 1728126459
+      platformer night sprite_28: -1383642480
+      platformer night sprite_55: 1583698678
+      platformer night sprite_58: -49342585
+      platformer night sprite_41: -1626530132
+      platformer night sprite_38: -139519155
+      platformer night sprite_52: -1910351553
+      platformer night sprite_72: -213680350
+      platformer night sprite_43: -1012347393
+      platformer night sprite_13: 667597384
+      platformer night sprite_87: -521676231
+      platformer night sprite_91: 490399559
+      platformer night sprite_20: -1355265620
+      platformer night sprite_49: -1744979439
+      platformer night sprite_48: -1817042911
+      platformer night sprite_46: -734048701
+      platformer night sprite_96: -370387870
+      platformer night sprite_1: 934583709
+      platformer night sprite_2: -1031720648
+      platformer night sprite_6: 158346477
+      platformer night sprite_57: -79798434
+      platformer night sprite_83: -350638633
+      platformer night sprite_16: 1317159386
+      platformer night sprite_82: 1957052112
+      platformer night sprite_92: 1566381662
+      platformer night sprite_3: -140600739
+      platformer night sprite_84: -1691015688
+      platformer night sprite_77: -1630809782
+      platformer night sprite_93: -1598076754
+      platformer night sprite_95: 34616969
+      platformer night sprite_8: 206166915
+      platformer night sprite_89: -946173864
+      platformer night sprite_94: -856084848
+      platformer night sprite_31: 1246865557
+      platformer night sprite_34: 232599625
+      platformer night sprite_61: 1949211465
+      platformer night sprite_10: -1313386618
+      platformer night sprite_18: -881873670
+      platformer night sprite_33: -1898422338
+      platformer night sprite_44: -983775633
+      platformer night sprite_15: -1002383331
+      platformer night sprite_9: -1684540532
+      platformer night sprite_7: -1320937341
+      platformer night sprite_86: 1067374765
+      platformer night sprite_14: 163930236
+      platformer night sprite_65: 1808991049
+      platformer night sprite_73: 797790591
+      platformer night sprite_53: 471790514
+      platformer night sprite_90: 1534648266
+      platformer night sprite_99: 1609735044
+      platformer night sprite_19: -683275751
+      platformer night sprite_60: -520011801
+      platformer night sprite_97: -757599954
+      platformer night sprite_26: 1615962193
+      platformer night sprite_35: 1602559272
+      platformer night sprite_27: 1335850025
+      platformer night sprite_62: 693276475
+      platformer night sprite_88: -1805262733
+      platformer night sprite_23: 405128929
+      platformer night sprite_64: 132134645
+      platformer night sprite_45: -1511040633
+      platformer night sprite_69: -1767479741
+      platformer night sprite_54: 1333763348
+      platformer night sprite_85: -743365986
+      platformer night sprite_40: 1772828128
+      platformer night sprite_67: -391768017
+      platformer night sprite_81: 1122296856
+      platformer night sprite_51: 472530308
+      platformer night sprite_47: 563412039
+      platformer night sprite_42: 2142387281
+      platformer night sprite_22: 326511679
+      platformer night sprite_75: -1459394274
+      platformer night sprite_79: -462463067
+      platformer night sprite_80: -506562622
+      platformer night sprite_30: 915397528
+      platformer night sprite_21: 1966329524
+      platformer night sprite_56: -255639059
+      platformer night sprite_66: 2139521293
+      platformer night sprite_59: -679470242
       platformer night sprite_11: 21300022
-      Big grey & green rock (night): 21300318
-      Little circular saw 1 (night): 21300300
-      Ground block 25 (night): 21300162
-      Ground block 7 (night): 21300106
-      Sky background (night): 21300192
-      Ground block 13 (night): 21300126
-      Red mushroom (night): 21300224
-      Little mushroom (night): 21300222
+      platformer night sprite_0: -453143710
+      platformer night sprite_25: 2052607386
+      platformer night sprite_50: 2134987283
+      platformer night sprite_24: 1660863496
+      platformer night sprite_71: 632833533
+      platformer night sprite_74: 493758535
+      platformer night sprite_78: 1460903105
+      platformer night sprite_76: -1650463476
+      platformer night sprite_98: -761982317
+      platformer night sprite_12: -214684950
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
