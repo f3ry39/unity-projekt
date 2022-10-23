@@ -1,0 +1,3054 @@
+fileFormatVersion: 2
+guid: af86b8a5d23249e47bbba4469ff11b8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Long grass 1
+  - first:
+      213: 21300002
+    second: Little grass 1
+  - first:
+      213: 21300004
+    second: Orange mushroom
+  - first:
+      213: 21300006
+    second: Little mushroom
+  - first:
+      213: 21300008
+    second: Red mushroom
+  - first:
+      213: 21300010
+    second: Underground 2
+  - first:
+      213: 21300012
+    second: Underground 1
+  - first:
+      213: 21300014
+    second: Green liana 3
+  - first:
+      213: 21300016
+    second: Green liana 4
+  - first:
+      213: 21300018
+    second: Brown liana 3
+  - first:
+      213: 21300020
+    second: Brown liana 4
+  - first:
+      213: 21300022
+    second: platformer night sprite_11
+  - first:
+      213: 21300024
+    second: Little grass 2
+  - first:
+      213: 21300026
+    second: Underground 4
+  - first:
+      213: 21300028
+    second: Grass block 2
+  - first:
+      213: 21300030
+    second: Grass block 3
+  - first:
+      213: 21300032
+    second: Grass block 4 (night)
+  - first:
+      213: 21300034
+    second: Grass block 5
+  - first:
+      213: 21300036
+    second: Underground 5
+  - first:
+      213: 21300038
+    second: Underground 3
+  - first:
+      213: 21300040
+    second: Ladder 2
+  - first:
+      213: 21300042
+    second: Barrel
+  - first:
+      213: 21300044
+    second: Sign 1
+  - first:
+      213: 21300046
+    second: Sign 2
+  - first:
+      213: 21300048
+    second: Grass block 1
+  - first:
+      213: 21300050
+    second: Ground block 1
+  - first:
+      213: 21300052
+    second: Ground block 2 (night)
+  - first:
+      213: 21300054
+    second: Ground block 3 (night)
+  - first:
+      213: 21300056
+    second: Bridge left part (night)
+  - first:
+      213: 21300058
+    second: Bridge center part
+  - first:
+      213: 21300060
+    second: Bridge right part
+  - first:
+      213: 21300062
+    second: Spades
+  - first:
+      213: 21300064
+    second: Blood spades
+  - first:
+      213: 21300066
+    second: Torch 1
+  - first:
+      213: 21300068
+    second: Torch 2
+  - first:
+      213: 21300070
+    second: Torch 4
+  - first:
+      213: 21300072
+    second: Little brown & green rock
+  - first:
+      213: 21300074
+    second: Little grey rock
+  - first:
+      213: 21300076
+    second: Plant
+  - first:
+      213: 21300078
+    second: Sign 3
+  - first:
+      213: 21300080
+    second: Sign 4
+  - first:
+      213: 21300082
+    second: Little brown rock
+  - first:
+      213: 21300084
+    second: Little grey & green rock
+  - first:
+      213: 21300086
+    second: Palm 1
+  - first:
+      213: 21300088
+    second: Palm 2
+  - first:
+      213: 21300090
+    second: Palm 3
+  - first:
+      213: 21300092
+    second: Palm 4
+  - first:
+      213: 21300094
+    second: Ladder 1
+  - first:
+      213: 21300096
+    second: Wood box
+  - first:
+      213: 21300098
+    second: Wood box 2
+  - first:
+      213: 21300100
+    second: Ground block 4 (night)
+  - first:
+      213: 21300102
+    second: Ground block 5 (night)
+  - first:
+      213: 21300104
+    second: Ground block 6 (night)
+  - first:
+      213: 21300106
+    second: Ground block 7 (night)
+  - first:
+      213: 21300108
+    second: Ground block 8 (night)
+  - first:
+      213: 21300110
+    second: Ground block 9 (night)
+  - first:
+      213: 21300112
+    second: Ground block 10 (night)
+  - first:
+      213: 21300114
+    second: Ground block 11 (night)
+  - first:
+      213: 21300116
+    second: Little circular saw 1
+  - first:
+      213: 21300118
+    second: Little circular saw 2
+  - first:
+      213: 21300120
+    second: Big circular saw 1 (night)
+  - first:
+      213: 21300122
+    second: Big circular saw 2
+  - first:
+      213: 21300124
+    second: Ground block 12 (night)
+  - first:
+      213: 21300126
+    second: Ground block 13 (night)
+  - first:
+      213: 21300128
+    second: Ground block 14 (night)
+  - first:
+      213: 21300130
+    second: Ground block 15 (night)
+  - first:
+      213: 21300132
+    second: Ground block 16 (night)
+  - first:
+      213: 21300134
+    second: Ground block 17 (night)
+  - first:
+      213: 21300136
+    second: Ground block 18 (night)
+  - first:
+      213: 21300138
+    second: Ground block 19 (night)
+  - first:
+      213: 21300140
+    second: Ground block 20 (night)
+  - first:
+      213: 21300142
+    second: Ground block 21 (night)
+  - first:
+      213: 21300144
+    second: Big brown & green rock
+  - first:
+      213: 21300146
+    second: Big brown rock
+  - first:
+      213: 21300148
+    second: Little circular blood saw 1
+  - first:
+      213: 21300150
+    second: Little circular blood saw 2
+  - first:
+      213: 21300152
+    second: Big circular blood saw 1
+  - first:
+      213: 21300154
+    second: Big circular blood saw 2
+  - first:
+      213: 21300156
+    second: Ground block 22 (night)
+  - first:
+      213: 21300158
+    second: Ground block 23 (night)
+  - first:
+      213: 21300160
+    second: Ground block 24 (night)
+  - first:
+      213: 21300162
+    second: Ground block 25 (night)
+  - first:
+      213: 21300164
+    second: Big grey & green rock
+  - first:
+      213: 21300166
+    second: Big grey rock
+  - first:
+      213: 21300168
+    second: Closed chest
+  - first:
+      213: 21300170
+    second: Open chest
+  - first:
+      213: 21300172
+    second: Coin
+  - first:
+      213: 21300174
+    second: Rubis
+  - first:
+      213: 21300176
+    second: Emeraude
+  - first:
+      213: 21300178
+    second: Gold key
+  - first:
+      213: 21300180
+    second: Iron key
+  - first:
+      213: 21300182
+    second: Upper platform
+  - first:
+      213: 21300184
+    second: Lower Platform
+  - first:
+      213: 21300186
+    second: Wood platform
+  - first:
+      213: 21300188
+    second: Upper wood
+  - first:
+      213: 21300190
+    second: Lower wood
+  - first:
+      213: 21300192
+    second: Sky background (night)
+  - first:
+      213: 21300194
+    second: Water background (night)
+  - first:
+      213: 21300196
+    second: Water (night)
+  - first:
+      213: 21300198
+    second: Water part (night)
+  - first:
+      213: 21300200
+    second: Left wood
+  - first:
+      213: 21300202
+    second: wood center
+  - first:
+      213: 21300204
+    second: right wood
+  - first:
+      213: 21300206
+    second: Long green liana
+  - first:
+      213: 21300208
+    second: Long brown liana
+  - first:
+      213: 21300210
+    second: Little green liana
+  - first:
+      213: 21300212
+    second: Little brown liana
+  - first:
+      213: 21300214
+    second: Torch 3
+  - first:
+      213: 21300216
+    second: Long grass 1 (night)
+  - first:
+      213: 21300218
+    second: Little grass 1 (night)
+  - first:
+      213: 21300220
+    second: Orange mushroom (night)
+  - first:
+      213: 21300222
+    second: Little mushroom (night)
+  - first:
+      213: 21300224
+    second: Red mushroom (night)
+  - first:
+      213: 21300226
+    second: Underground 2 (night)
+  - first:
+      213: 21300228
+    second: Underground 1 (night)
+  - first:
+      213: 21300230
+    second: Green liana 3 (night)
+  - first:
+      213: 21300232
+    second: Green liana 4 (night)
+  - first:
+      213: 21300234
+    second: Brown liana 3 (night)
+  - first:
+      213: 21300236
+    second: Brown liana 4 (night)
+  - first:
+      213: 21300238
+    second: Underground 4 (night)
+  - first:
+      213: 21300240
+    second: Grass block 2 (night)
+  - first:
+      213: 21300242
+    second: Grass block 3 (night)
+  - first:
+      213: 21300244
+    second: Grass block 5 (night)
+  - first:
+      213: 21300246
+    second: Underground 5 (night)
+  - first:
+      213: 21300248
+    second: Underground 3 (night)
+  - first:
+      213: 21300250
+    second: Ladder 2 (night)
+  - first:
+      213: 21300252
+    second: Barrel (night)
+  - first:
+      213: 21300254
+    second: Sign 1 (night)
+  - first:
+      213: 21300256
+    second: Sign 2 (night)
+  - first:
+      213: 21300258
+    second: Grass block 1 (night)
+  - first:
+      213: 21300260
+    second: Ground block 1 (night)
+  - first:
+      213: 21300262
+    second: Bridge center part (night)
+  - first:
+      213: 21300264
+    second: Bridge right part (night)
+  - first:
+      213: 21300266
+    second: Torch 1 (night)
+  - first:
+      213: 21300268
+    second: Torch 2 (night)
+  - first:
+      213: 21300270
+    second: Torch 4 (night)
+  - first:
+      213: 21300272
+    second: Little brown & green rock (night)
+  - first:
+      213: 21300274
+    second: Little grey rock (night)
+  - first:
+      213: 21300276
+    second: Plant (night)
+  - first:
+      213: 21300278
+    second: Sign 3 (night)
+  - first:
+      213: 21300280
+    second: Sign 4 (night)
+  - first:
+      213: 21300282
+    second: Little brown rock (night)
+  - first:
+      213: 21300284
+    second: Little grey & green rock (night)
+  - first:
+      213: 21300286
+    second: Palm 1 (night)
+  - first:
+      213: 21300288
+    second: Palm 2 (night)
+  - first:
+      213: 21300290
+    second: Palm 3 (night)
+  - first:
+      213: 21300292
+    second: Palm 4 (night)
+  - first:
+      213: 21300294
+    second: Ladder 1 (night)
+  - first:
+      213: 21300296
+    second: Wood box 1 (night)
+  - first:
+      213: 21300298
+    second: Wood box 2 (night)
+  - first:
+      213: 21300300
+    second: Little circular saw 1 (night)
+  - first:
+      213: 21300302
+    second: Little circular saw 2 (night)
+  - first:
+      213: 21300304
+    second: Big circular saw 2 (night)
+  - first:
+      213: 21300306
+    second: Big brown & green rock (night)
+  - first:
+      213: 21300308
+    second: Big brown rock (night)
+  - first:
+      213: 21300310
+    second: Little circular blood saw 1 (night)
+  - first:
+      213: 21300312
+    second: Little circular blood saw 2 (night)
+  - first:
+      213: 21300314
+    second: Big circular blood saw 1 (night)
+  - first:
+      213: 21300316
+    second: Big circular blood saw 2 (night)
+  - first:
+      213: 21300318
+    second: Big grey & green rock (night)
+  - first:
+      213: 21300320
+    second: Big grey rock (night)
+  - first:
+      213: 21300322
+    second: Closed chest (night)
+  - first:
+      213: 21300324
+    second: Open chest (night)
+  - first:
+      213: 21300326
+    second: Coin (night)
+  - first:
+      213: 21300328
+    second: Rubis (night)
+  - first:
+      213: 21300330
+    second: Emeraude (night)
+  - first:
+      213: 21300332
+    second: Gold key (night)
+  - first:
+      213: 21300334
+    second: Iron key (night)
+  - first:
+      213: 21300336
+    second: Upper platform (night)
+  - first:
+      213: 21300338
+    second: Lower Platform (night)
+  - first:
+      213: 21300340
+    second: Wood platform (night)
+  - first:
+      213: 21300342
+    second: Upper wood (night)
+  - first:
+      213: 21300344
+    second: Lower wood (night)
+  - first:
+      213: 21300346
+    second: Left wood (night)
+  - first:
+      213: 21300348
+    second: wood center (night)
+  - first:
+      213: 21300350
+    second: right wood (night)
+  - first:
+      213: 21300352
+    second: Long green liana (night)
+  - first:
+      213: 21300354
+    second: Long brown liana (night)
+  - first:
+      213: 21300356
+    second: Little green liana (night)
+  - first:
+      213: 21300358
+    second: Little brown liana (night)
+  - first:
+      213: 21300360
+    second: Torch 3 (night)
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Long grass 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little grass 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 489
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange mushroom (night)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 482
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little mushroom (night)
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red mushroom (night)
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 482
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green liana 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 478
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green liana 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 479
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown liana 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 478
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown liana 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 479
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer night sprite_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 480
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little grass 2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 480
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 473
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass block 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass block 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 461
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass block 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass block 5 (night)
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground 5 (night)
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 444
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel (night)
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 451
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 451
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass block 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 451
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge left part (night)
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 445
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge center part (night)
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 445
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge right part (night)
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 445
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spades
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 445
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood spades
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 445
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 443
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 443
+        width: 3
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 443
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little brown & green rock (night)
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 440
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little grey rock (night)
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 440
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant (night)
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 433
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 435
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 434
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little brown rock (night)
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 428
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little grey & green rock (night)
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 428
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 390
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 390
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 390
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 411
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood box 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood box 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 4 (night)
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 410
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 5 (night)
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 418
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 6 (night)
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 418
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 7 (night)
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 410
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 8 (night)
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 9 (night)
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 400
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 10 (night)
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 11 (night)
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little circular saw 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little circular saw 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big circular saw 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 393
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big circular saw 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 393
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 12 (night)
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 13 (night)
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 390
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 14 (night)
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 15 (night)
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 16 (night)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 17 (night)
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 18 (night)
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 380
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 19 (night)
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 20 (night)
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 21 (night)
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 380
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big brown & green rock (night)
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 373
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big brown rock (night)
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 373
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little circular blood saw 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little circular blood saw 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big circular blood saw 1 (night)
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 375
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big circular blood saw 2 (night)
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 375
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 22 (night)
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 23 (night)
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 24 (night)
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground block 25 (night)
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big grey & green rock (night)
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 358
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big grey rock (night)
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 358
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closed chest (night)
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 363
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Open chest (night)
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 363
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin (night)
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 364
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rubis (night)
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 364
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emeraude (night)
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 364
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold key (night)
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 363
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron key (night)
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 363
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper platform (night)
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 314
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower Platform (night)
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 314
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood platform (night)
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 314
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper wood (night)
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 314
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lower wood (night)
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 314
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky background (night)
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 244
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water background (night)
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water (night)
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 74
+        width: 320
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water part (night)
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 320
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left wood (night)
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 347
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood center (night)
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 347
+        width: 14
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wood (night)
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 347
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long green liana (night)
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 425
+        width: 3
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long brown liana (night)
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 425
+        width: 4
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little green liana (night)
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 412
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little brown liana (night)
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 413
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch 3 (night)
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 443
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Brown liana 4 (night): 21300236
+      Wood platform (night): 21300340
+      Little grey & green rock (night): 21300284
+      Long grass 1 (night): 21300216
+      Lower Platform (night): 21300338
+      Gold key (night): 21300332
+      Water part (night): 21300198
+      Little green liana (night): 21300356
+      Sign 1 (night): 21300254
+      Water background (night): 21300194
+      Bridge center part (night): 21300262
+      Little grass 2: 21300024
+      Spades: 21300062
+      Sign 4 (night): 21300280
+      Ground block 24 (night): 21300160
+      Ground block 23 (night): 21300158
+      Iron key (night): 21300334
+      Grass block 3 (night): 21300242
+      Rubis (night): 21300328
+      Ground block 3 (night): 21300054
+      Bridge left part (night): 21300056
+      Ground block 8 (night): 21300108
+      Big brown rock (night): 21300308
+      Ladder 1 (night): 21300294
+      Little circular blood saw 2 (night): 21300312
+      Green liana 3 (night): 21300230
+      Ground block 18 (night): 21300136
+      Grass block 4 (night): 21300032
+      Open chest (night): 21300324
+      Little brown rock (night): 21300282
+      Ground block 12 (night): 21300124
+      Torch 1 (night): 21300266
+      Upper platform (night): 21300336
+      Wood box 1 (night): 21300296
+      Palm 2 (night): 21300288
+      Ground block 20 (night): 21300140
+      Little brown liana (night): 21300358
+      Lower wood (night): 21300344
+      Long brown liana (night): 21300354
+      Green liana 4 (night): 21300232
+      Ground block 15 (night): 21300130
+      wood center (night): 21300348
+      Wood box 2 (night): 21300298
+      Big brown & green rock (night): 21300306
+      Little grey rock (night): 21300274
+      Ground block 21 (night): 21300142
+      Sign 2 (night): 21300256
+      Brown liana 3 (night): 21300234
+      Ground block 5 (night): 21300102
+      Ground block 2 (night): 21300052
+      Big circular saw 2 (night): 21300304
+      Torch 2 (night): 21300268
+      Little circular saw 2 (night): 21300302
+      Little grass 1 (night): 21300218
+      Ground block 4 (night): 21300100
+      Torch 3 (night): 21300360
+      Bridge right part (night): 21300264
+      Underground 4 (night): 21300238
+      Grass block 5 (night): 21300244
+      Ground block 6 (night): 21300104
+      Upper wood (night): 21300342
+      Plant (night): 21300276
+      Underground 2 (night): 21300226
+      Ground block 17 (night): 21300134
+      Little circular blood saw 1 (night): 21300310
+      Ground block 19 (night): 21300138
+      Underground 1 (night): 21300228
+      Emeraude (night): 21300330
+      Sign 3 (night): 21300278
+      right wood (night): 21300350
+      Little brown & green rock (night): 21300272
+      Grass block 2 (night): 21300240
+      Torch 4 (night): 21300270
+      Blood spades: 21300064
+      Palm 1 (night): 21300286
+      Ground block 11 (night): 21300114
+      Ground block 1 (night): 21300260
+      Left wood (night): 21300346
+      Water (night): 21300196
+      Underground 5 (night): 21300246
+      Palm 3 (night): 21300290
+      Big grey rock (night): 21300320
+      Barrel (night): 21300252
+      Ground block 14 (night): 21300128
+      Ground block 16 (night): 21300132
+      Coin (night): 21300326
+      Ground block 10 (night): 21300112
+      Grass block 1 (night): 21300258
+      Closed chest (night): 21300322
+      Big circular saw 1 (night): 21300120
+      Long green liana (night): 21300352
+      Big circular blood saw 2 (night): 21300316
+      Palm 4 (night): 21300292
+      Underground 3 (night): 21300248
+      Orange mushroom (night): 21300220
+      Big circular blood saw 1 (night): 21300314
+      Ground block 22 (night): 21300156
+      Ground block 9 (night): 21300110
+      Ladder 2 (night): 21300250
+      platformer night sprite_11: 21300022
+      Big grey & green rock (night): 21300318
+      Little circular saw 1 (night): 21300300
+      Ground block 25 (night): 21300162
+      Ground block 7 (night): 21300106
+      Sky background (night): 21300192
+      Ground block 13 (night): 21300126
+      Red mushroom (night): 21300224
+      Little mushroom (night): 21300222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
