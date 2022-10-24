@@ -49,3 +49,6 @@ TagManager:
   - name: Pierwszy plan
     uniqueID: 2831761577
     locked: 0
+  - name: Main Character
+    uniqueID: 3020158369
+    locked: 0
