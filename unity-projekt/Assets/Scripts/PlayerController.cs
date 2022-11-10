@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public Transform groundTester;
     private float radius = 0.1f;
     public LayerMask layersToMask;
+    public Transform startPoint;
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +27,13 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if(anim.GetCurrentAnimatorStateInfo(0).IsName("Dead"))
+        {
+            rgdBody.velocity = Vector2.zero;
+            return;
+        }
+
         onTheGround = Physics2D.OverlapCircle(groundTester.position, radius, layersToMask);
 
         float horizontalMove = Input.GetAxis ("Horizontal");
@@ -58,5 +66,10 @@ public class PlayerController : MonoBehaviour
         heroScale.x *= -1;
         gameObject.transform.localScale = heroScale; //obracanie bohatera 
 
+    }
+
+    public void RestartHero()
+    {
+        gameObject.transform.position = startPoint.position;
     }
 }

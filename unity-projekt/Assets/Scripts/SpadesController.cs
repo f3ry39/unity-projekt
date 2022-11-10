@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SpadesController : MonoBehaviour
 {
-    public Transform startPoint;
 
     // Start is called before the first frame update
     void Start()
@@ -15,7 +14,7 @@ public class SpadesController : MonoBehaviour
     {
         if(other.gameObject.name == "Player")
         {
-            other.transform.position = startPoint.position;
+            other.gameObject.GetComponent<Animator>().SetTrigger("fail");
         }
     }
 }
