@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class MovingPlatform : MonoBehaviour
 {
+    public Vector2 startPoint;
+    public Vector2 endPoint;
     public float speed;
+
+    private Vector2 currentPlatformPosition;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,7 +18,9 @@ public class MovingPlatform : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(speed, 0, 0);
+        currentPlatformPosition = Vector2.Lerp(startPoint, endPoint, Mathf.PingPong(Time.time, 1));
+        transform.position = currentPlatformPosition;
+        //transform.Translate(speed, 0, 0);
     }
 
     void OnTriggerEnter2D(Collider2D other)
