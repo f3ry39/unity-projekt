@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     Animator anim;
     bool dirToRight = true; 
     Rigidbody2D rgdBody;
+    public float launchForce;
 
     public float jumpForce;
 
@@ -71,5 +72,13 @@ public class PlayerController : MonoBehaviour
     public void RestartHero()
     {
         gameObject.transform.position = startPoint.position;
+    }
+
+    public void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.CompareTag("Trampoline"))
+        {
+            rgdBody.velocity = Vector2.up * launchForce;
+        }
     }
 }
