@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     public float heroSpeed;
     Animator anim;
     bool dirToRight = true; 
-    Rigidbody2D rgdBody;
+    public Rigidbody2D rgdBody;
     public float launchForce;
 
     public float jumpForce;

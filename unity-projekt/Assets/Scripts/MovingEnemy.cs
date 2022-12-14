@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.TextCore.Text;
+using UnityEngine.UIElements;
 
 public class MovingEnemy : MonoBehaviour
 {
@@ -11,8 +13,6 @@ public class MovingEnemy : MonoBehaviour
     public float speed;
     private Vector2 currentEnemyPosition;
     private SpriteRenderer spriteRenderer;
-
-
 
     // Start is called before the first frame update
     void Start()
@@ -32,15 +32,21 @@ public class MovingEnemy : MonoBehaviour
     {
         currentEnemyPosition = Vector2.Lerp(startPoint, endPoint, Mathf.PingPong(Time.time * speed, 1));
         transform.position = currentEnemyPosition;
-        
-        if(currentEnemyPosition == startPoint)
+        //Debug.Log(transform.position);
+    }
+
+    void FixedUpdate()
+    {
+        if (Vector2.Distance(transform.position, startPoint) <= 0.02f)
         {
             this.spriteRenderer.flipX = true;
-        }
-        if (currentEnemyPosition == endPoint)
+        }        
+        if (Vector2.Distance(transform.position, endPoint) <= 0.02f)
         {
             this.spriteRenderer.flipX = false;
         }
+        Debug.Log(Vector2.Distance(transform.position, startPoint));
+
 
     }
 

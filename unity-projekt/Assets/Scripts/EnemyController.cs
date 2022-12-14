@@ -4,19 +4,26 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    MovingEnemy movingEnemy;
+    float maxSpeed;
+
+    private void Start()
     {
-
+        movingEnemy = GetComponent<MovingEnemy>();
+        maxSpeed = movingEnemy.speed;
     }
-
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.name == "Player")
         {
             other.gameObject.GetComponent<Animator>().SetTrigger("fail");
+            movingEnemy.speed = 0;
+            Invoke("Reset", 0.25f);
         }
     }
 
-
+    private void Reset()
+    {
+        movingEnemy.speed = maxSpeed;
+    }
 }
