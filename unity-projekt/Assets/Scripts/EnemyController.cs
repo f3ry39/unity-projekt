@@ -7,6 +7,8 @@ public class EnemyController : MonoBehaviour
     MovingEnemy movingEnemy;
     DeathsController deathsController;
     float maxSpeed;
+    public AudioClip clip;
+
     private void Start()
     {
         movingEnemy = GetComponent<MovingEnemy>();
@@ -21,6 +23,7 @@ public class EnemyController : MonoBehaviour
             movingEnemy.speed = 0;
             deathsController.IncrementCounter();
             Invoke("Reset", 0.25f);
+            AudioSource.PlayClipAtPoint(clip, transform.position);
         }
     }
 

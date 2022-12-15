@@ -6,6 +6,7 @@ public class RestartPoint : MonoBehaviour
 {
     RestartPointsManager restartPointsManager;
     SpriteRenderer spriteRenderer;
+
     // Start is called before the first frame update
     void Start()
     {

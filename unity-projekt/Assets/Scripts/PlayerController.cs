@@ -18,6 +18,9 @@ public class PlayerController : MonoBehaviour
     public LayerMask layersToMask;
     public Transform startPoint;
 
+    public AudioClip clip;
+    public AudioClip clip2;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -44,6 +47,7 @@ public class PlayerController : MonoBehaviour
         { 
             rgdBody.AddForce(new Vector2(0f, jumpForce));
             anim.SetTrigger("jump");
+            AudioSource.PlayClipAtPoint(clip, transform.position);
         }
 
         anim.SetFloat("speed", Mathf.Abs (horizontalMove)); //przejscie z animacji na druga animacje
@@ -79,6 +83,7 @@ public class PlayerController : MonoBehaviour
         if(other.gameObject.CompareTag("Trampoline"))
         {
             rgdBody.velocity = Vector2.up * launchForce;
+            AudioSource.PlayClipAtPoint(clip2, transform.position);
         }
     }
 }

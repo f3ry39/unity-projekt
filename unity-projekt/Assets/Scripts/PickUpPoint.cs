@@ -6,6 +6,7 @@ public class PickUpPoint : MonoBehaviour
 {
 
     CounterController counterController;
+    public AudioClip clip;
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +23,7 @@ public class PickUpPoint : MonoBehaviour
         if (other.gameObject.name == "Player")
         {
             Destroy(this.gameObject);
+            AudioSource.PlayClipAtPoint(clip, transform.position);
             counterController.IncrementCounter();
         }
     }
