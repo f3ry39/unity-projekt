@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/poziom1.unity
     guid: 6bfeb137c58fbf1499d9ca6119e7b437
   - enabled: 1
-    path: Assets/Scenes/poziom2.unity
-    guid: 9635b51505c1efa45b30fca64ff2ffda
+    path: Assets/Scenes/no elo.unity
+    guid: bf3b43b6b275bb844b18e09443f3cda4
+  - enabled: 1
+    path: Assets/Scenes/poziom3.unity
+    guid: dd2b87db2fd885942b0640de276279a6
   m_configObjects: {}

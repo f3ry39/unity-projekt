@@ -45,8 +45,6 @@ public class MovingEnemy : MonoBehaviour
         {
             this.spriteRenderer.flipX = false;
         }
-        Debug.Log(Vector2.Distance(transform.position, startPoint));
-
 
     }
 

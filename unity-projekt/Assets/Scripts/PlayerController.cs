@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     Animator anim;
     bool dirToRight = true; 
     public Rigidbody2D rgdBody;
-    public float launchForce;
+    public float launchForce; //trampolina
 
     public float jumpForce;
 
