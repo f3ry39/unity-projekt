@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9e4a2d01f54e94b4782bbe6bbc4ad1aa
+  - enabled: 1
     path: Assets/Scenes/poziom1.unity
     guid: 6bfeb137c58fbf1499d9ca6119e7b437
   - enabled: 1
