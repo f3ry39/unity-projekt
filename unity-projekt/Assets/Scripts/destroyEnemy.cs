@@ -3,6 +3,7 @@ using UnityEngine;
 public class destroyEnemy : MonoBehaviour
 {
     public AudioClip clip;
+    public GameObject deathEffect;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

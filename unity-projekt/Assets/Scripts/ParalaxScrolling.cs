@@ -14,14 +14,14 @@ public class ParalaxScrolling : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        prevCameraPosition = cameraTransform.position;
+        prevCameraPosition = cameraTransform.position; //poprzednia pozycja rowna aktualnej pozycji
     }
 
     // Update is called once per frame
     void Update()
     {
-        deltaCameraPosition = cameraTransform.position - prevCameraPosition;
-        Vector3 parallaxPosition = new Vector3(transform.position.x + (deltaCameraPosition.x * paralaxFactor), transform.position.y, transform.position.z);
+        deltaCameraPosition = cameraTransform.position - prevCameraPosition; //ró¿nica miêdzy aktualn¹ pozycj¹ kamery a poprzedni¹
+        Vector3 parallaxPosition = new Vector3(transform.position.x + (deltaCameraPosition.x * paralaxFactor), transform.position.y, transform.position.z); 
         transform.position = parallaxPosition;
         prevCameraPosition = cameraTransform.position;
     }
